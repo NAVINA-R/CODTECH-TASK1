@@ -4,7 +4,7 @@ ID : CT08FHX
 
 Domain : VLSI
 
-Duration : December 20th,2024 to January 20th,2024
+Duration : December 20th,2024 to January 20th,2025
 
 TASK 1 : DIGITAL LOGIC DESIGN WITH VERILOG
          
